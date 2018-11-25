@@ -7,6 +7,7 @@
 //   );
 // }
 
+//ecma 6
 const isEmpty = value =>
   value === undefined ||
   value === null ||
